@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         "            \"actiondata\": \"7\", \n" +
                         "            \"actionnum\": \"1\", \n" +
                         "            \"lotteryno\": \"03,08,11,21,36,48,37\", \n" +
-                        "            \"typeName\": \"香港六合彩\", \n" +
+                        "            \"typeName\": \"这是什么鬼\", \n" +
                         "            \"icon\": \"icon-tic-liuhecai\"\n" +
                         "        }\n" +
                         "    }\n" +
