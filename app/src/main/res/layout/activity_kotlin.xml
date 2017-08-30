@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="www.ibenhong.com.startkotlin.KotlinActivity">
+
+    <Button
+        android:id="@+id/btnGotoIndex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="跳转 首页"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="143dp" />
+    <Button
+        android:id="@+id/btnToast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="弹出 Toast"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="143dp" />
+</LinearLayout>
